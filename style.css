@@ -63,7 +63,7 @@ main p {
 
 .fundo {
     background-image: url('imagens/background001.jpg');
-    background-position: right center;
+    background-position: center center;
     background-attachment: fixed;
     background-size: cover;
     box-shadow: inset 7px 2px 14px rgba(0, 0, 0, 0.905);
@@ -86,14 +86,14 @@ main p {
 
 .para2 {
     padding-top: 50px;
-    line-height: 2em;
+    line-height: 2.5em;
     padding-left: 30px;
     padding-bottom: 60px;
 }
 
 .para1 {
     padding-bottom: 10px;
-    line-height: 2em;
+    line-height: 2.5em;
     padding-bottom: 60px;
     padding-top: 50px;
     padding-left: 30px;
@@ -103,7 +103,7 @@ main p {
     color: white;
     display: inline-block;
     background-color: rgba(0, 0, 0, 0.522);
-    line-height: 2em;
+    line-height: 2.5em;
     padding: 5px;
 }
 
