@@ -24,11 +24,6 @@ header strong {
     font-size: 1.4em;
 }
 
-#cabe {
-    
-    width: 100%;
-}
-
 header a {
     color: white;
     text-decoration: none;
@@ -74,9 +69,6 @@ main p {
     padding-left: 30px;
     padding-top: 50px;
     padding-bottom: 50px;
-    width: 100%;
-    min-width: 300%;
-    margin: auto;
     
 }
 
@@ -89,9 +81,6 @@ main p {
     padding-left: 30px;
     padding-top: 50px;
     padding-bottom: 50px;
-    width: 100%;
-    min-width: 300%;
-    margin: auto;
 }
 
 .para2 {
